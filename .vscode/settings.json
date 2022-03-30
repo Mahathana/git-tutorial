@@ -1,5 +1,6 @@
 {
   "workbench.colorCustomizations": {
+<<<<<<< HEAD
     "activityBar.activeBackground": "#dc868f",
     "activityBar.activeBorder": "#d1f1ce",
     "activityBar.background": "#dc868f",
@@ -19,4 +20,25 @@
     "titleBar.inactiveForeground": "#15202b99"
   },
   "peacock.color": "#d05f6b"
+=======
+    "activityBar.activeBackground": "#f6a4bc",
+    "activityBar.activeBorder": "#35910e",
+    "activityBar.background": "#f6a4bc",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#35910e",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "sash.hoverBorder": "#f6a4bc",
+    "statusBar.background": "#f2759a",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#ee4678",
+    "statusBarItem.remoteBackground": "#f2759a",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#f2759a",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#f2759a99",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "#f2759a"
+>>>>>>> Task2
 }
